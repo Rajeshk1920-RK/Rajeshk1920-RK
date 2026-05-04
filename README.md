@@ -21,47 +21,6 @@ Currently focused on strengthening my skills for **security, AI, and software de
 
 ---
 
-## 🚀 Projects
-
-### 🔹 Smart Code Learning Website *(Work in Progress)*
-An interactive, game-based coding platform to help beginners learn programming through simple and engaging steps.  
-**Tech Stack:** HTML, CSS, JavaScript, Python  
-
----
-
-### 🔹 Smart Blind Stick
-An IoT-enabled assistive device that detects obstacles using ultrasonic sensors and alerts visually impaired users through vibration or sound.  
-**Tech Stack:** Arduino, Ultrasonic Sensors, Buzzer Module, IoT  
-
----
-
-### 🔹 Exam Hall Ticket Generator (GTTC Magadi)
-A web-based system that automates student data management and generates downloadable exam hall tickets efficiently.  
-**Tech Stack:** HTML, CSS, JavaScript, Python  
-
----
-
-## 🏆 Achievements & Certifications
-- Certified training in **Python Programming and Data Handling**
-- Recognized for creativity and contribution in **AI and Robotics-based projects**
-
----
-
-## 💪 Strengths
-- Quick learner  
-- Self-motivated  
-- Innovative and technology-focused  
-- Strong problem-solving & analytical skills  
-- Leadership and communication abilities  
-
----
-
-## 📫 Contact Me
-- 📧 Email: **rajeshrajeshk1920@gmail.com**
-- 📱 Phone: **6360596768**
-- 📍 Location: Magadi, Ramanagara, Karnataka, India
-
----
 
 
 
