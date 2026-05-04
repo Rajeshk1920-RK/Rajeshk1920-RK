@@ -1,15 +1,14 @@
-# 👋 Hi, I'm Rajesh K
+<h1 align="center">Hi 👋, Rajesh K</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3> 
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manojarya0207&label=Profile%20views&color=0e75b6&style=flat" alt="Manojarya0207" /> </p>
 
-🎓 Diploma Student in **Artificial Intelligence & Machine Learning**  
-🏫 Government Tool Room and Training Center (GTTC), Magadi  
-💡 Passionate about AI, ML, IoT, and real-world problem solving
+
 
 ---
 
-## 👨‍💻 About Me
-I am an enthusiastic AI & ML student with hands-on experience in programming, IoT systems, and web-based projects.  
-I enjoy building practical solutions that combine **technology, creativity, and impact**.  
-Currently focused on strengthening my skills for **security, AI, and software development internships**.
+# 💫 About Me:
+I'm Rajesh K. 👨‍🎓 I am a student at the Govt. Tool Room and Training Center, Magadi. 🏫 I am pursuing my studies in the AI/ML department 🤖📊. I am passionate about artificial intelligence and machine learning ❤️🧠. I enjoy solving real-world problems using technology 🛠️🌍. I strive to keep learning and improving my technical skills 📚💻. My goal is to contribute to innovative projects in the AI/ML field 🚀✨. Collaboration and teamwork are my strengths 🤝👨‍💻. I believe in lifelong learning and staying curious 🔍🧠. Outside academics, I enjoy exploring new ideas and Problem Solving in Tach.<br><br>⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture  
 
 ---
 
